@@ -18,7 +18,7 @@ export interface MovieDataType {
     isBookmarked: boolean;
     isTrending: boolean;
 }
-  
+
 export const moviesData = [
     {
         id: "1",
